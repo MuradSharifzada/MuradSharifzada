@@ -18,8 +18,8 @@ I'm currently **enhancing my skills and looking for exciting opportunities to gr
 #### 📌 **Programming & Backend Development**
 - **Languages:** Core Java, SQL
 - **Frameworks:** Spring Boot, Spring MVC, Spring Data (JPA, Hibernate), Spring AOP, Spring Security
-- **Data Structures & Algorithms
-- **Microservices Tools:**Feign Client, Kafka (beginner)
+- **Data Structures & Algorithms**
+- **Microservices Tools:** Feign Client, Kafka (beginner)
 - **Database Management:** MySQL, PostgreSQL, Liquibase
 - **RESTful API Development:** Postman, Swagger
 - **Design Patterns:** Singleton, Factory, Builder
